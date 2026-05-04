@@ -1,0 +1,4 @@
+This file is just a placeholder. It would be edited occasionally to report the amount of fonts in this folder.
+There are 412 fonts in my folder. Please wait until the repo reaches the half of that amount (around 200 fonts).
+
+Amount of fonts: 0
